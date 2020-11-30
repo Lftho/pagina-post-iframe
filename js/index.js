@@ -1,3 +1,7 @@
+/**
+ * Criando um modal a partir de um click
+ * assim mostrando o conteudo que tem dentro do mesmo
+ */
 const modalOverlay = document.querySelector('.modal-overlay');
 const posts = document.querySelectorAll('.post');
 
