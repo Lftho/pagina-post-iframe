@@ -63,4 +63,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para
 
 ---
 
-Feito com :purple_heart: by [Rocketseat](https://rocketseat.com.br) :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+<!--Feito com :purple_heart: by [Rocketseat](https://rocketseat.com.br) :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)-->
